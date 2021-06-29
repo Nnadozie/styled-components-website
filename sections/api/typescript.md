@@ -24,7 +24,7 @@ Before you can effectively start to use TypeScript you will have to do a little 
 
 TypeScript definitions for styled-components can be extended by using [declaration merging](https://www.typescriptlang.org/docs/handbook/declaration-merging.html) since version `v4.1.4` of the definitions.
 
-So the first step is creating a declarations file. Let's name it `styled.d.ts` for example.
+So the first step is creating a declarations file. Name it `styled.d.ts`.
 
 ```ts
 // import original module declarations
